@@ -1,0 +1,40 @@
+body {
+  background-color: gold;
+}
+
+
+.button{
+margin: 0 auto;
+ width: 280px;
+
+  background-color: #7FFF00;
+  border-radius: 8px;
+  font-size: 1.1em;
+  color: white;
+  text-align: center;
+
+}
+
+h2:hover {
+  color: black;
+}
+
+h1 {
+  align-content: center;
+  font-style: italic;
+  font-weight: bold;
+  font-family: serif;
+}
+img {
+  max-width: 9%;
+  height: auto;
+}
+
+li{
+  font-style: oblique;
+  font-weight: bold;
+  margin: 0 auto;
+   width: 1080px;
+  background-color: yellow;
+font-size: 1.4em;
+}
